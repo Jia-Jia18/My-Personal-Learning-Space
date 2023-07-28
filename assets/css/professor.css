@@ -1,0 +1,130 @@
+.cards-list {
+  z-index: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 30px auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 40px;
+  box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.card .card_image {
+  width: inherit;
+  height: inherit;
+  border-radius: 40px;
+}
+
+.card .card_image img {
+  width: inherit;
+  height: inherit;
+  border-radius: 40px;
+  object-fit: cover;
+}
+
+.card .card_title {
+  text-align: center;
+  border-radius: 0px 0px 40px 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: -30px;
+  height: 40px;
+}
+
+  .name{
+  Color: black;
+  font-size: 15pt;
+  font-weight: bold;
+
+}
+.card:hover {
+  transform: scale(0.9, 0.9);
+  box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25), 
+    -5px -5px 30px 15px rgba(0,0,0,0.22);
+}
+
+.title-white {
+  color: black;
+}
+
+.title-black {
+  color: black;
+}
+
+@media all and (max-width: 500px) {
+  .card-list {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
+  }
+}
+
+  .frmImageUpload label{
+  font-weight: bold;
+  color:black;
+  }
+  .btnSubmit {
+  background-color: #3FA849;
+  padding:4px;
+  border: #3FA849 1px solid;
+  color: #FFFFFF;
+  }
+  .inputFile {
+  padding: 3px;
+  background-color: #FFFFFF;
+  }
+
+    
+.questionform{
+  padding-bottom: 100px;
+
+}
+
+.eachQues{
+   border-style: solid;
+  border-color: LightBlue;
+   margin: 40px;
+   padding-bottom:20px;
+   background-color:rgba(60, 80, 106,0.4);
+   margin-bottom:100px;
+
+}
+
+.eachQues textarea{
+  height: 50px;
+  margin:10px;
+  width:70%;
+}
+
+.eachQues label{
+   float:left;
+   min-width: 150px;
+   max-width:400px;
+   padding-bottom:5px;
+   width:20%;
+   color:white;
+   font-weight:bold;
+
+}
+
+.show{
+font-size: 15pt;
+text-align: left;
+}
+
+.course{
+border-style: solid;
+width: 500px;
+display: block;
+margin: auto;
+padding: 20px;
+background-color: rgba(60, 80, 106,0.2);
+}
+  
