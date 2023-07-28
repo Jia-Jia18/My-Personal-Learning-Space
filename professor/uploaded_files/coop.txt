@@ -1,0 +1,113 @@
+sequence - something that repeat itself
+
+
+Length of a Co-op
+Summer= minimum of 12 weeks (more is always acceptable) 
+Fall or Spring semester= minimum of 14weeks
+Hours/week: minimum of 35 hours/week
+
+
+remote online? Or in-person
+
+why do u apply?
+
+what do u know about our conpant?
+
+what position?
+
+why do u think you fit?
+
+tell me about u?
+
+elevator pitch
+I’m JiaJia. I'm a sophomore majoring in Web & Mobile Computing at RIT.  
+Through my classes and personal projects, I have become skilled in using HTML, CSS, Java, PHP, and JavaScript.
+Database mySQL 
+I love to create web applications that work flawlessly and keep users engaged also i am intersted in design mobile app. 
+I am looking in applying those same skills in a co-op opportunity for this summer and next fall semester. 
+
+
+
+
+As you can tell for major
+we learn web application, which invlove html,css, javascript, php, design principle for the web。
+When designing, we need to consider the screen size and all the other factors. 
+For example, is it suitable for this software system.
+
+
+For the mobile cpmputing which involve c++, prototype, other outside resource, design
+ priciple, need to consider material and ios design...
+
+For either mobile or web, we need to consider the the store database, as well as full 
+functioning web or mobile app. Learn datbase, mysql.
+Use java to connect these function.
+
+I learn how to manages prodecut. like say for mobile. How does the process goes. Team work
+The mjor relate to the design, programming, software engieneer Front-end and Back-end application
+
+
+
+
+About Compan
+
+Windstream is a leading provider of advanced network communications and technology solutions for consumers, 
+small businesses, enterprise organizations and carrier partners across the U.S. Windstream offers bundled services, 
+including broadband, security solutions, voice and digital TV to consumers. The company also provides data, cloud solutions, 
+unified communications and managed services to business and enterprise clients. The company supplies core transport solutions 
+on a local and long-haul fiber-optic network spanning approximately 125,000 miles.
+
+
+Why do u apply?
+I want to work with a company that has a positive work environment. 
+I see on the webpage about the diverse environment you have. And values that align with 
+my own has remained a priority throughout my job search, and this company ranks at the top of the list.
+
+
+
+I’ve been passionate about user experience design and that is what I seeking. 
+I was excited to see this company work closely with internal and external teams of 
+developers, UI/​UX professionals, graphic designers. Digital Experience group. It is 
+match what I wanted.
+
+
+I’m a natural problem-solver. I find it rewarding to dig deep and uncover solutions to 
+challenges. It’s something I’ve always excelled at. Also, I like to 
+manage everything on time, be organize. This is were When I was in a group project,
+I will be the one who did the managment. Be award of the due date, organize the file.
+And communicate with group member to do enerything on time.
+
+
+hear from you email?
+
+I have a few questions.
+Is it online remote or in-person?
+
+What does a typical day look like for a person in this position?
+
+I’ve really enjoyed learning more about this opportunity. What are the next steps in the hiring process?
+
+
+
+Hi Interviewer Name,
+
+ 
+
+Thank you so much for meeting with me today. It was such a pleasure to learn more about the team and the [position title] position with [company name]. I am very excited about the opportunity to bring my strong foundation in [relevant skills], in addition to my experience with [relevant experiences].  I was very interested to learn about [something you learned about that was interesting], and I think my experience with [specific skill/experience] would be a great addition to your team.
+
+ 
+
+I look forward to hearing from  you about the next steps in the hiring process, and please do not hesitate to contact me if I can provide additional information.
+
+ 
+
+Best regards,
+
+Ritchie Tiger
+
+
+
+
+
+
+
+
